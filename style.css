@@ -1,0 +1,22 @@
+.banner-btn{
+    background-image: linear-gradient(to bottom, #190aee 2%, #f11651 100% );
+    color: #fff;
+    border: black;
+    border-radius: 9px;
+    cursor: pointer;
+    padding: 12px 20px;  
+}
+
+.container .carousel{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    background-position: center;
+} 
+.container{
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
